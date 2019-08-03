@@ -1,7 +1,7 @@
 package com.stackroute;
 
 import java.util.Scanner;
-
+//java example for  loops i.e for,while
 public class Loops
 {
     public static void main(String[] args)
@@ -24,7 +24,5 @@ while(sum>0)
     }
     sum=sum-1;
 }
-
     }
-
 }
